@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "Calibri, 'Courier New', monospace",
+    "editor.wordWrap": "on",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.cursorWidth": 0,
+    "terminal.integrated.letterSpacing": -3
+}
